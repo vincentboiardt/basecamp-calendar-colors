@@ -8,3 +8,18 @@
 .owc-project-color-8 { background: #765e0c !important; }
 .owc-project-color-9 { background: #76120d !important; }
 .owc-project-color-10 { background: #510c0c !important; }
+
+.owc-projects {
+float: left;
+margin: 10px 0;
+color: #fff;
+}
+
+.owc-projects li {
+padding: 0 10px;
+line-height: 16px;
+margin: 0 0 2px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
